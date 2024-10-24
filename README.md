@@ -97,4 +97,38 @@
 
 ---
 
-✨ **Happy coding!** ✨
+## 💻 **Raccourcis VS Code**
+
+| **Raccourci**        | **Description**                              |
+| -------------------- | -------------------------------------------- |
+| `Ctrl + P`           | Ouvre rapidement un fichier                  |
+| `Ctrl + Shift + P`   | Ouvre la palette de commandes                |
+| `Ctrl + K, Ctrl + S` | Ouvre les raccourcis clavier                 |
+| `Alt + flèches`      | Déplace une ligne ou une sélection           |
+| `Ctrl + D`           | Sélectionne la prochaine occurrence d’un mot |
+| `Ctrl + Shift + L`   | Sélectionne toutes les occurrences d’un mot  |
+| `Ctrl + /`           | Commente/décommente une ligne                |
+| `Ctrl + Shift + F`   | Rechercher dans tous les fichiers            |
+| `Ctrl + B`           | Basculer la barre latérale                   |
+
+---
+
+## 🐧 **Commandes Linux**
+
+| **Commande**                 | **Description**                                |
+| ---------------------------- | ---------------------------------------------- |
+| `ls`                         | Liste les fichiers du répertoire courant       |
+| `cd [directory]`             | Change de répertoire                           |
+| `pwd`                        | Affiche le répertoire courant                  |
+| `mkdir [directory-name]`     | Crée un répertoire                             |
+| `rm [file]`                  | Supprime un fichier                            |
+| `rm -r [directory]`          | Supprime un répertoire et son contenu          |
+| `cp [source] [destination]`  | Copie un fichier                               |
+| `mv [source] [destination]`  | Déplace ou renomme un fichier                  |
+| `chmod [permissions] [file]` | Modifie les permissions d'un fichier           |
+| `sudo [command]`             | Exécute une commande avec des privilèges admin |
+| `apt update && apt upgrade`  | Met à jour les paquets                         |
+
+---
+
+✨ **Happy coding!** ✨%
