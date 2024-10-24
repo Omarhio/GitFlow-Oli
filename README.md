@@ -1,25 +1,31 @@
-# 📝 GitFlow-Oli 
-
----
-
 ## 🛠️ **Commandes Git**
 
-| **Commande**                 | **Description**                                  |
-| ---------------------------- | ------------------------------------------------ |
-| `git init`                   | Initialise un dépôt Git local                    |
-| `git clone [url]`            | Clone un dépôt distant                           |
-| `git status`                 | Affiche l'état des fichiers dans le répertoire   |
-| `git add [file]`             | Ajoute un fichier à l'index                      |
-| `git commit -m "message"`    | Commit les modifications avec un message         |
-| `git pull`                   | Récupère et fusionne les modifications distantes |
-| `git push`                   | Envoie les commits locaux au dépôt distant       |
-| `git branch`                 | Liste les branches                               |
-| `git checkout [branch-name]` | Change de branche                                |
-| `git merge [branch-name]`    | Fusionne une branche dans l'actuelle             |
-| `git log`                    | Affiche l'historique des commits                 |
-| `git reset --hard [commit]`  | Réinitialise à un commit précédent               |
+| **Commande**                                   | **Description**                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| `git config --global user.name "[Your-Pseudo]` | Configure Git avec votre pseudo                                                                  |
+| `git config --global user.email "[Your-Email]` | Configure Git avec votre email                                                                   |
+| `git init`                                     | Initialise un dépôt Git local                                                                    |
+| `git clone [url]`                              | Clone un dépôt distant                                                                           |
+| `git status`                                   | Affiche l'état des fichiers dans le répertoire                                                   |
+| `git add [file]`                               | Ajoute un fichier à l'index                                                                      |
+| `git commit -m "message"`                      | Commit les modifications avec un message                                                         |
+| `git pull`                                     | Récupère et fusionne les modifications distantes                                                 |
+| `git push`                                     | Envoie les commits locaux au dépôt distant                                                       |
+| `git branch`                                   | Liste les branches                                                                               |
+| `git checkout [branch-name]`                   | Change de branche                                                                                |
+| `git merge [branch-name]`                      | Fusionne une branche dans l'actuelle                                                             |
+| `git branch -d [branch-name]`                  | Supprime la branche locale                                                                       |
+| `git push [origin] -d [branch-name]`           | Supprime la branche locale                                                                       |
+| `git log`                                      | Affiche l'historique des commits                                                                 |
+| `git reset --hard [commit]`                    | Réinitialise à un commit précédent                                                               |
+| `git flow init`                                | Initialise Git-flow et crée les branches nécessaires                                             |
+| `git flow feature start [feature-name]`        | Crée une nouvelle branche de fonctionnalité sur 'develop' et passe sur cette branche             |
+| `git flow feature finish [feature-name]`       | Fusionne la feature dans 'develop', supprime la branche de fonctionnalité et passe sur 'develop' |
+| `git flow feature pull [feature-name]`         | Récupère une fonctionnalité publiée par un autre utilisateur                                     |
+| `git flow feature track [feature-name]`        | Suit une fonctionnalité sur le serveur distant                                                   |
 
 ---
+
 
 ## 🐧 **Commandes Linux**
 
