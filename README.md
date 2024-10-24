@@ -66,24 +66,6 @@
 
 ---
 
-## 🐧 **Commandes Linux**
-
-| **Commande**                 | **Description**                                |
-| ---------------------------- | ---------------------------------------------- |
-| `ls`                         | Liste les fichiers du répertoire courant       |
-| `cd [directory]`             | Change de répertoire                           |
-| `pwd`                        | Affiche le répertoire courant                  |
-| `mkdir [directory-name]`     | Crée un répertoire                             |
-| `rm [file]`                  | Supprime un fichier                            |
-| `rm -r [directory]`          | Supprime un répertoire et son contenu          |
-| `cp [source] [destination]`  | Copie un fichier                               |
-| `mv [source] [destination]`  | Déplace ou renomme un fichier                  |
-| `chmod [permissions] [file]` | Modifie les permissions d'un fichier           |
-| `sudo [command]`             | Exécute une commande avec des privilèges admin |
-| `apt update && apt upgrade`  | Met à jour les paquets                         |
-
----
-
 ## 🍎 **Commandes Mac**
 
 | **Commande**                           | **Description**                                                                                                            |
