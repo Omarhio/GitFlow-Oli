@@ -55,4 +55,35 @@
 
 ---
 
+## 🍎 **Commandes Mac**
+
+| **Commande**                           | **Description**                                                                                                            |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| `Commande + X`                         | Couper l’élément sélectionné et en enregistrer une copie dans lepresse-papiers.                                            |
+| `Commande + C`                         | Copier l’élément sélectionné dans le presse-papiers. Ce raccourci peut également être utilisé avec les fichiers du Finder. |
+| `Commande + V`                         | Coller le contenu du presse-papiers dans le document ou l’app en cours.                                                    |
+| `Commande + Z`                         | Annuler la commande précédente. Maj + Commande + Z permet de rétablir la commande annulée.                                 |
+| `Commande + A`                         | Sélectionner tous les éléments.                                                                                            |
+| `Commande + F`                         | Rechercher des éléments dans un document ou ouvrir une fenêtre Rechercher.                                                 |
+| `Commande + G`                         | Trouver à nouveau l’occurrence suivante de l’élément trouvé. Maj + Commande + G permet de trouver l’occurrence précédente. |
+| `Commande + H`                         | Masquer les fenêtres de l’app active au premier plan. Commande + Option + H masque toutes les fenêtres.                    |
+| `Commande + M`                         | Minimiser la fenêtre active dans le Dock. Commande + Option + M minimise toutes les fenêtres de l’app active.              |
+| `Commande + O`                         | Ouvrir l’élément sélectionné ou afficher une boîte de dialogue pour choisir un fichier à ouvrir.                           |
+| `Commande + P`                         | Imprimer le document actif.                                                                                                |
+| `Commande + S`                         | Enregistrer le document actif.                                                                                             |
+| `Commande + T`                         | Ouvrir un nouvel onglet.                                                                                                   |
+| `Commande + W`                         | Fermer la fenêtre active. Option + Commande + W ferme toutes les fenêtres de l’app active.                                 |
+| `Option + Commande + Échap`            | Forcer la fermeture d’une app.                                                                                             |
+| `Commande + Barre d’espace`            | Afficher ou masquer Spotlight. Commande + Option + Barre d’espace lance une recherche dans Finder.                         |
+| `Contrôle + Commande + Barre d’espace` | Afficher le visualiseur de caractères pour choisir des Emoji ou autres symboles.                                           |
+| `Contrôle + Commande + F`              | Utiliser l’app en plein écran si elle le permet.                                                                           |
+| `Barre d’espace`                       | Utiliser la fonctionnalité Coup d’œil pour obtenir un aperçu de l’élément sélectionné.                                     |
+| `Commande + Tab`                       | Passer à l’app suivante la plus récemment utilisée.                                                                        |
+| `Commande + Accent grave (\`)`         | Basculer entre les fenêtres de l’app active.                                                                               |
+| `Maj + Commande + 5`                   | Capturer l’écran ou enregistrer l’écran (macOS Mojave ou version ultérieure).                                              |
+| `Maj + Commande + N`                   | Créer un nouveau dossier dans le Finder.                                                                                   |
+| `Commande + Virgule (,)`               | Ouvrir les préférences de l’app active.                                                                                    |
+
+---
+
 ✨ **Happy coding!** ✨
