@@ -137,4 +137,22 @@
 
 ---
 
-✨ **Happy coding!** ✨%
+## 🪟 **Commandes Windows**
+
+| **Commande**                 | **Description**                        |
+| ---------------------------- | -------------------------------------- |
+| `Windows + L`                | Verrouiller son ordinateur.            |
+| `Alt  + Tab`                 | Passer d’une fenêtre à l’autre.        |
+| `F11`                        | Mode plein écran dans les navigateurs. |
+| `Ctrl + C`                   | Copier le texte sélectionné.           |
+| `Ctrl + X`                   | Couper le texte sélectionné.           |
+| `Ctrl + V`                   | Coller le texte préalablement copié.   |
+| `Ctrl + A`                   | Sélectionner tout le texte.            |
+| `Ctrl + Z`                   | Annuler l’action.                      |
+| `Ctrl+Alt+Suppr`             | Ouvrir le gestionnaire de tâches.      |
+| `Ctrl+Roulette de la souris` | Zoomer/Dezoomer.                       |
+| `Alt+Maj`                    | Changer la langue du clavier.          |
+
+
+
+✨ **Happy coding!** ✨
